@@ -1,4 +1,4 @@
-Project to learn and practice multithreading.
+**Project to learn and practice multithreading.**
 
 This program takes in a text file as input and uses multiple threads to process and compress it as if it were being zipped. Here is example input and output:
 - Input file content: aaeeoooooeee
